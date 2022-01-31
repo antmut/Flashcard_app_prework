@@ -1,11 +1,12 @@
 ## codepath prework
 
 ### App Description
-codePath prework required and optional stories
+codePath preWork required and optional stories
 
 ### App Walk-though
 
-![x](https://i.imgur.com/wV3lJ2a.gif)
+![x](https://i.imgur.com/ABeyQNL.gif)
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
